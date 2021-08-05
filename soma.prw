@@ -29,7 +29,7 @@ Return
 User Function PARDOIS()
 
 Local i
-Local nIni, cFim
+Local nIni, nFim
 
 nIni := 100
 nFim := 120
@@ -55,7 +55,8 @@ Return Nil
 
 User Function RphWhile()
 
-Local nNumero := nAux := 350
+// Local nNumero := nAux := 350
+Local nAux := 350
 Local nCnt := 15
 Local nRgs := 0
 
