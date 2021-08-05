@@ -1,6 +1,6 @@
 #include 'Protheus.ch'
 
-User Function Teste()
+User Function TestVar()
 
 Local xVariavel // Declara a variável inicialmente com valor nulo
 

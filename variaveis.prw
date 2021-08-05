@@ -48,7 +48,7 @@ RETURN
 
 
 
-USER FUNCTION var3()
+USER FUNCTION VAR3()
 
 Local xVariavel // Declara a variável inicialmente com valor nulo
 

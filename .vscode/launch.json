@@ -29,7 +29,23 @@
 		{
 			"label": "u_",
 			"description": "<nil>"
+		},
+		{
+			"label": "u_objarray",
+			"description": "<nil>"
+		},
+		{
+			"label": "u_Protheuzeiro",
+			"description": "<nil>"
+		},
+		{
+			"label": "u_Obj",
+			"description": "<nil>"
+		},
+		{
+			"label": "u_TestVar",
+			"description": "<nil>"
 		}
 	],
-	"lastProgramExecuted": "u_"
+	"lastProgramExecuted": "u_TestVar"
 }
