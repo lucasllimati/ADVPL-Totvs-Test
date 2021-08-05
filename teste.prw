@@ -1,6 +1,6 @@
-# include 'Protheus.ch'
+#include 'Protheus.ch'
 
-user function Teste()
+User Function Teste()
 
 Local xVariavel // Declara a variável inicialmente com valor nulo
 
