@@ -45,7 +45,24 @@
 		{
 			"label": "u_TestVar",
 			"description": "<nil>"
+		},
+		{
+			"label": "u_var1",
+			"description": "<nil>"
+		},
+		{
+			"args": [],
+			"label": "u_var1",
+			"description": ""
+		},
+		{
+			"label": "u_OlaMundo",
+			"description": "<nil>"
+		},
+		{
+			"label": "u_pRO",
+			"description": "<nil>"
 		}
 	],
-	"lastProgramExecuted": "u_TestVar"
+	"lastProgramExecuted": "u_pRO"
 }
