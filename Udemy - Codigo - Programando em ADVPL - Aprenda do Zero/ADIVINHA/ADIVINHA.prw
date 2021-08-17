@@ -2,7 +2,8 @@
 
 /*
  @Description: jogo de adivinhação numérica em ADVPL
- @Author: RCTI Treinamentos
+ @author Lucas Lima
+ @since 2021
  @See: www.rctitreinamentos.com.br
  @Functions: ADIVINHA
 */
