@@ -15,8 +15,8 @@ BLOCO DE CÓDIGO: {||VALOR := 1,MsgAlert("Valor é igual a "+cValToChar(VALOR))}
 
 /*/{Protheus.doc} VARIAVEL
 //TODO Descrição auto-gerada.
-@author RCTI TREINAMENTOS
-@since 2018
+@author Lucas Lima
+@since 2021
 @version undefined
 
 @type function

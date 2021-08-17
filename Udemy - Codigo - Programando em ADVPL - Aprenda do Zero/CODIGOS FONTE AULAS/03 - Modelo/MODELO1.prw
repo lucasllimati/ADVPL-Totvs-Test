@@ -3,8 +3,8 @@
 
 /*/{Protheus.doc} MODELO1
 //TODO PROGRAMA DE ATUALIZAÇÃO
-@author RCTI TREINAMENTOS
-@since 2018
+@author Lucas Lima
+@since 2021
 @version undefined
 
 @type function

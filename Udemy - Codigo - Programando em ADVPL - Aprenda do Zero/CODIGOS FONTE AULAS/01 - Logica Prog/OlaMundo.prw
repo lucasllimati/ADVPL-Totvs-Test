@@ -3,8 +3,8 @@
 
 /*/{Protheus.doc} OlaMundo
 //TODO Descrição auto-gerada.
-@author RCTI TREINAMNTOS
-@since 2018
+@author Lucas Lima
+@since 2021
 @version undefined
 
 @type function

@@ -3,8 +3,8 @@
 
 /*/{Protheus.doc} A010TOK
 //TODO Utilizando um ponto de entrada - cadastro de produtos.
-@author RCTI TREINAMENTOS
-@since 2018
+@author Lucas Lima
+@since 2021
 @version undefined
 
 @type function

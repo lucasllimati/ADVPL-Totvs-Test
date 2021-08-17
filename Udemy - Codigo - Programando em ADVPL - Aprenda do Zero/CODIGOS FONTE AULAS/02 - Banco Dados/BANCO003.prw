@@ -5,8 +5,8 @@
 
 /*/{Protheus.doc} BANCO003
 //TODO Descrição auto-gerada.
-@author RCTI TREINAMENTOS
-@since 2018
+@author Lucas Lima
+@since 2021
 @version undefined
 
 @type function

@@ -3,7 +3,8 @@
 
 /*/{Protheus.doc} DEBUG01
 //TODO Quantidade de produtos na tabela SB1
-@author RCTI Treinamentos
+@author Lucas Lima
+@since 2021
 @version undefined
 
 @type function
